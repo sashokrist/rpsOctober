@@ -1,0 +1,19 @@
+1555591441a:1:{s:13:"jumbotron.htm";a:6:{s:8:"fileName";s:13:"jumbotron.htm";s:7:"content";s:284:"description = "The Jumbotron"
+==
+<section id="jumbotron" class="m-t-3">
+	<div class="jumbotron">
+		<div class="container text-xs-center">
+			{% placeholder jumbotron default %}
+			<h2 class="display-3">the GREAT TOKEN</h2>
+			{% endplaceholder %}
+		</div>
+	</div>
+</section>";s:5:"mtime";i:1555587740;s:6:"markup";s:249:"<section id="jumbotron" class="m-t-3">
+	<div class="jumbotron">
+		<div class="container text-xs-center">
+			{% placeholder jumbotron default %}
+			<h2 class="display-3">the GREAT TOKEN</h2>
+			{% endplaceholder %}
+		</div>
+	</div>
+</section>";s:4:"code";N;s:11:"description";s:13:"The Jumbotron";}}
