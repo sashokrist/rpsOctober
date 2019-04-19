@@ -1,4 +1,4 @@
-1555593496a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:601:"title = "Home"
+1555678916a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:765:"title = "Home"
 url = "/"
 layout = "default"
 is_hidden = 0
@@ -11,10 +11,17 @@ is_hidden = 0
           Welcome To Rock, Paper Scissors!
         </div>
         <div>
-          <a href="/login" class="btn btn-primary">Login</a>
-          <a href="/login" class="btn btn-primary">Register</a>
-          <a href="/game" class="btn btn-primary">New Game</a>
-          <a href="/" class="btn btn-primary">Statistic</a>
+          {% if user %}
+            <p>Hello {{ user.name }}</p>
+            <a href="/game" class="btn btn-primary">New Game</a>
+            <a href="/" class="btn btn-primary">Statistic</a>
+          {% else %}
+            <p>Nobody is logged in</p>
+            <a href="/login" class="btn btn-primary">Login</a>
+            <a href="/login" class="btn btn-primary">Register</a>
+          {% endif %}
+
+
         </div>
       </div>
     </div>
@@ -22,17 +29,24 @@ is_hidden = 0
 
 
 
-";s:5:"mtime";i:1555592872;s:6:"markup";s:523:"<div class="container">
+";s:5:"mtime";i:1555654866;s:6:"markup";s:687:"<div class="container">
     <div class="flex-center position-ref full-height">
       <div class="content">
         <div class="title m-b-md">
           Welcome To Rock, Paper Scissors!
         </div>
         <div>
-          <a href="/login" class="btn btn-primary">Login</a>
-          <a href="/login" class="btn btn-primary">Register</a>
-          <a href="/game" class="btn btn-primary">New Game</a>
-          <a href="/" class="btn btn-primary">Statistic</a>
+          {% if user %}
+            <p>Hello {{ user.name }}</p>
+            <a href="/game" class="btn btn-primary">New Game</a>
+            <a href="/" class="btn btn-primary">Statistic</a>
+          {% else %}
+            <p>Nobody is logged in</p>
+            <a href="/login" class="btn btn-primary">Login</a>
+            <a href="/login" class="btn btn-primary">Register</a>
+          {% endif %}
+
+
         </div>
       </div>
     </div>

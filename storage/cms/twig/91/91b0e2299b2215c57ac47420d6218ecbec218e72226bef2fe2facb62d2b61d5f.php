@@ -23,7 +23,7 @@ class __TwigTemplate_748f7f41912056b499effc9238686435fb6bc60f293ffda0abe6caf356f
         echo "<div id=\"footer\">
     <div class=\"container\">
         <hr />
-        <h2 class=\"text-center\">GREAT TOKEN</h2>
+        <h2 class=\"text-center\">the GREAT TOKEN</h2>
         <p class=\"muted credit\">&copy; 2013 - ";
         // line 5
         echo twig_escape_filter($this->env, twig_date_format_filter($this->env, "now", "Y"), "html", null, true);
@@ -52,7 +52,7 @@ class __TwigTemplate_748f7f41912056b499effc9238686435fb6bc60f293ffda0abe6caf356f
         return new Twig_Source("<div id=\"footer\">
     <div class=\"container\">
         <hr />
-        <h2 class=\"text-center\">GREAT TOKEN</h2>
+        <h2 class=\"text-center\">the GREAT TOKEN</h2>
         <p class=\"muted credit\">&copy; 2013 - {{ \"now\"|date(\"Y\") }} SJ.</p>
     </div>
 </div>", "C:\\xampp\\htdocs\\rpsOct/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm", "");

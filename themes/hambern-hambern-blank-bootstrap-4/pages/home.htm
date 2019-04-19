@@ -11,10 +11,17 @@ is_hidden = 0
           Welcome To Rock, Paper Scissors!
         </div>
         <div>
-          <a href="/login" class="btn btn-primary">Login</a>
-          <a href="/login" class="btn btn-primary">Register</a>
-          <a href="/game" class="btn btn-primary">New Game</a>
-          <a href="/" class="btn btn-primary">Statistic</a>
+          {% if user %}
+            <p>Hello {{ user.name }}</p>
+            <a href="/game" class="btn btn-primary">New Game</a>
+            <a href="/" class="btn btn-primary">Statistic</a>
+          {% else %}
+            <p>Nobody is logged in</p>
+            <a href="/login" class="btn btn-primary">Login</a>
+            <a href="/login" class="btn btn-primary">Register</a>
+          {% endif %}
+
+
         </div>
       </div>
     </div>

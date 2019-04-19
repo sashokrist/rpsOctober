@@ -1,70 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf16560f-2e26-43af-beae-38096c6cf58b" name="Default Changelist" comment="" />
+    <list default="true" id="cf16560f-2e26-43af-beae-38096c6cf58b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sasho/rps/components/Games.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sasho/rps/components/games/default.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/1c/8b/hpme.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/1c/b0/jumbotron.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/1f/a3/navbar.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/1f/a3/navbar.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/41/0a/home.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/41/0a/home.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/77/5d/default.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/77/5d/default.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/c4/37/login.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/f4/fb/features.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/f8/ba/footer.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/f8/ba/footer.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/0a76124757e1d39c58eb28e618463cdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/2737c4de108997a513c690212d736cbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/2c9af68d58ae0fbf498808be539c43e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/3a382618629a0c6d566181d03a8383af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/468b2c77f606b6465c6626258d06840b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/5453b8631c33f659be4bb32cab11f863" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/a6f6f3f7a0322e22ec7d46d414f2a519" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/a97344db2c1002996130eefbeb96773b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/b102d6791e8c25ae41cd784813e2a53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/c0d9e928262c18600d045eb58dd80328" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/ed67d19ddd7d8fa5403c0317f8bb7da5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/10/1073c974ccdf6d1b4179cbce4634df9d9ff26d68c759d618d3f8440861f7ce72.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/45/45298fa145c9c5acb97e821ea6ea68cc3953b661b8c880c9819c27bbf3d0a1a9.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/twig/45/45298fa145c9c5acb97e821ea6ea68cc3953b661b8c880c9819c27bbf3d0a1a9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/72/72aa49ea3d3d49d4424a7311d5e0819ace6f6ebbc88336fa01eb4a1975063e73.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/7d/7d72f4564cfd6231a2b56914c27a21ab761287e11770d5fbf0274719b19ac205.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/89/890d82c765c2f717420a1a7b280e12ead51bb1e70363829be0c9731e488ad9f8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/91/91b0e2299b2215c57ac47420d6218ecbec218e72226bef2fe2facb62d2b61d5f.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/twig/91/91b0e2299b2215c57ac47420d6218ecbec218e72226bef2fe2facb62d2b61d5f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/a7/a72f45f62d979deb1b31c0149e31e50bed6a517c8f83ca9bbf892461fd05ce39.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/b6/b60ebda20088213c4eb6220924a4d9b99f4d2015c808c440ed74264850906c1d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c1/c1ee9c71107968095850878afb6755be34d37c29007925bf5a9114cbb32601be.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c4/c40cbed7512f5cda8e0f4020bd7af40821b5b4922ccb0293f81ff15aa896b0d2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c6/c656964b0c7ccccdf3f5b0eb290e7ef5e0e6da6a169166ff25c7a6f0fe579aba.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/d4/d4197b73093a28df45c5648d80c3a7305f545feac5cc0ee1914b51c37140dcc9.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/08/df/08dfdfd922681bba7ab5215d56b7da8dd8d64c53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/1c/5b/1c5b846e968d22487632984a9b1be456d98508a3" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/1c/5b/1c5b846e968d22487632984a9b1be456d98508a3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/1c/72/1c72ebbd5c37881c93268236614fcce57d76b176" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/28/b5/28b594b1ba2b52e5c681ae322f27bea7d835f786" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/31/46/3146f036c65efe269294e3706ced0d65d356af3f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/39/da/39dacc5b2079b46a6da14f600bcfb674d6c9380a" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/39/da/39dacc5b2079b46a6da14f600bcfb674d6c9380a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/3c/5c/3c5c6deb7e54ee2a4cc9763ffffa065e4558744c" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/3c/5c/3c5c6deb7e54ee2a4cc9763ffffa065e4558744c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/49/32/4932f3dac10e22529bb578446429688f2cf1bd9f" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/49/32/4932f3dac10e22529bb578446429688f2cf1bd9f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/50/3c/503cf8d2f30fb41c86bf9c75d3042f05ad223de9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/7f/18/7f1858f1486f09199a00f1b4e380841eeafbaa61" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/7f/18/7f1858f1486f09199a00f1b4e380841eeafbaa61" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/81/08/81088ee972be9acbd8e1be71ecc4b3b3a0d95aaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/51/9751d5c40390beab4a30b02de01e8d4cba4afb7c" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/51/9751d5c40390beab4a30b02de01e8d4cba4afb7c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/d4/97d45125d7a1aeb7448073ffda78e47ea6b2cb36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/99/01/9901f87c69b4762a9d0d943d44bef647f5e91837" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a9/b0/a9b0bd90d695641a68776e08f72e5c5da2e17c00" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/a9/b0/a9b0bd90d695641a68776e08f72e5c5da2e17c00" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b5/6c/b56c472dfb09b9dd96df442e97d602a2abb7a8ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d9/06/d906a5597504713894cb6a6a3ffa5ecc434fe9f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/e9/ea/e9ea6514d178717b7730200343cf54f2cebe8a10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ee/2f/ee2f842aa7bb1f53edf3a2ed2c09a1807ffa6c90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/f2/57/f2573b69610dbd9002ba6387d34f6af545582080" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/f6/67/f6672e41a1016c9448023dde96324152d4af88e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/f7/9a/f79a9c735079a7627b359e2df8d06e2d9f04ed30" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/f7/9a/f79a9c735079a7627b359e2df8d06e2d9f04ed30" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/fd/d9/fdd95f73e8a7b38da98ce16df1b7dca5a86fc03a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/classes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/dHn20RW88wZlLYqGUatMS1u4geI5mHuxaqBE4JHi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/game.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/game.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rps@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rps@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rps@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="rps: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="rps@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="rps: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="sasho_rps_games: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/navbar.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/jumbotron.htm">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/login.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/layouts/default.htm">
+        <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/components/Games.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            <state relative-caret-position="288">
+              <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+              <folding>
+                <element signature="e#39#69#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/assets/css/style.css">
+        <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/models/Game.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            <state relative-caret-position="600">
+              <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/components/games/default.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#1;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,22 +168,34 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm" />
         <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/navbar.htm" />
-        <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm" />
         <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e62bf839-3007-4003-b418-8d09bcd23606/console.sql" />
+        <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm" />
+        <option value="$PROJECT_DIR$/plugins/sasho/rps/Plugin.php" />
+        <option value="$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/plugins/sasho/rps/components/game/default.htm" />
+        <option value="$PROJECT_DIR$/plugins/sasho/rps/components/Game.php" />
+        <option value="$PROJECT_DIR$/plugins/sasho/rps/models/Game.php" />
+        <option value="$PROJECT_DIR$/plugins/sasho/rps/components/Games.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="152" />
-    <option name="y" value="46" />
-    <option name="width" value="1634" />
-    <option name="height" value="900" />
+    <option name="x" value="168" />
+    <option name="y" value="82" />
+    <option name="width" value="1588" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -132,16 +234,36 @@
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="rainlab" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpsOct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpsOct" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="sasho" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpsOct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpsOct" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="sasho" type="462c0819:PsiDirectoryNode" />
+              <item name="rps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpsOct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpsOct" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="sasho" type="462c0819:PsiDirectoryNode" />
+              <item name="rps" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rpsOct" type="b2602c69:ProjectViewProjectNode" />
               <item name="rpsOct" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="rainlab" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="sasho" type="462c0819:PsiDirectoryNode" />
+              <item name="rps" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rpsOct" type="b2602c69:ProjectViewProjectNode" />
@@ -197,7 +319,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -225,25 +350,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555586183644</updated>
-      <workItem from="1555586184864" duration="6914000" />
+      <workItem from="1555586184864" duration="27004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6914000" />
+    <option name="totallyTimeSpent" value="27004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="46" width="1634" height="900" extended-state="0" />
+    <frame x="168" y="82" width="1588" height="988" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17662008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19764398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.3293124" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -251,7 +377,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Database" weight="0.3291885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -281,24 +407,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/login.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="46" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -309,17 +421,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e62bf839-3007-4003-b418-8d09bcd23606/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/partials/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/layouts/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        <state relative-caret-position="624">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/models/Profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/game.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hambern-hambern-blank-bootstrap-4/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e62bf839-3007-4003-b418-8d09bcd23606/schema/rps/table/backend_users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e62bf839-3007-4003-b418-8d09bcd23606/schema/rps/table/sasho_rps_games">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e62bf839-3007-4003-b418-8d09bcd23606/schema/rps/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/components/games/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#1;n#form#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/models/Game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sasho/rps/components/Games.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+          <folding>
+            <element signature="e#39#69#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

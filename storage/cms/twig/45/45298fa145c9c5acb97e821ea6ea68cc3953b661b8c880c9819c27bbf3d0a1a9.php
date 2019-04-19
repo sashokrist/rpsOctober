@@ -27,10 +27,26 @@ class __TwigTemplate_d5e8ae530d9dbc3dc7f69008148afbdaaf5ce0bc2c1fd4d0ef749f45393
           Welcome To Rock, Paper Scissors!
         </div>
         <div>
-          <a href=\"/login\" class=\"btn btn-primary\">Login</a>
-          <a href=\"/login\" class=\"btn btn-primary\">Register</a>
-          <a href=\"/game\" class=\"btn btn-primary\">New Game</a>
-          <a href=\"/\" class=\"btn btn-primary\">Statistic</a>
+          ";
+        // line 8
+        if (($context["user"] ?? null)) {
+            // line 9
+            echo "            <p>Hello ";
+            echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, ($context["user"] ?? null), "name", []), "html", null, true);
+            echo "</p>
+            <a href=\"/game\" class=\"btn btn-primary\">New Game</a>
+            <a href=\"/\" class=\"btn btn-primary\">Statistic</a>
+          ";
+        } else {
+            // line 13
+            echo "            <p>Nobody is logged in</p>
+            <a href=\"/login\" class=\"btn btn-primary\">Login</a>
+            <a href=\"/login\" class=\"btn btn-primary\">Register</a>
+          ";
+        }
+        // line 17
+        echo "
+
         </div>
       </div>
     </div>
@@ -42,9 +58,14 @@ class __TwigTemplate_d5e8ae530d9dbc3dc7f69008148afbdaaf5ce0bc2c1fd4d0ef749f45393
         return "C:\\xampp\\htdocs\\rpsOct/themes/hambern-hambern-blank-bootstrap-4/pages/home.htm";
     }
 
+    public function isTraitable()
+    {
+        return false;
+    }
+
     public function getDebugInfo()
     {
-        return array (  23 => 1,);
+        return array (  48 => 17,  42 => 13,  34 => 9,  32 => 8,  23 => 1,);
     }
 
     public function getSourceContext()
@@ -56,10 +77,17 @@ class __TwigTemplate_d5e8ae530d9dbc3dc7f69008148afbdaaf5ce0bc2c1fd4d0ef749f45393
           Welcome To Rock, Paper Scissors!
         </div>
         <div>
-          <a href=\"/login\" class=\"btn btn-primary\">Login</a>
-          <a href=\"/login\" class=\"btn btn-primary\">Register</a>
-          <a href=\"/game\" class=\"btn btn-primary\">New Game</a>
-          <a href=\"/\" class=\"btn btn-primary\">Statistic</a>
+          {% if user %}
+            <p>Hello {{ user.name }}</p>
+            <a href=\"/game\" class=\"btn btn-primary\">New Game</a>
+            <a href=\"/\" class=\"btn btn-primary\">Statistic</a>
+          {% else %}
+            <p>Nobody is logged in</p>
+            <a href=\"/login\" class=\"btn btn-primary\">Login</a>
+            <a href=\"/login\" class=\"btn btn-primary\">Register</a>
+          {% endif %}
+
+
         </div>
       </div>
     </div>
